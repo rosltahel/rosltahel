@@ -19,7 +19,8 @@ Hi there! I'm Rosl Tahel (a.k.a. @rosltahel) 👩‍💻, a passionate computer 
 
 ---
 ## 📫 How to Reach Me  
-[LinkedIn](https://www.linkedin.com/in/rosol-tuhul-381b7720b/) | [Email](mailto:rosltahel3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rosol-tuhul-381b7720b/) 
+[Email](mailto:rosltahel3@gmail.com)
 
 ---
 ## 🔗 GitHub Stats
