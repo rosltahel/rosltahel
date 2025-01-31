@@ -22,7 +22,7 @@ Hi there! I'm Rosl Tahel (a.k.a. @rosltahel) 👩‍💻, a passionate computer 
 [LinkedIn](https://www.linkedin.com/in/rosol-tuhul-381b7720b/) | [Email](mailto:rosltahel3@gmail.com)
 
 ---
-## 🔗 GitHub Stats
+## 🔗 GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosltahel&show_icons=true&theme=radical)
 
