@@ -5,7 +5,6 @@ Hi there! I'm Rosl Tahel (a.k.a. @rosltahel) 👩‍💻, a passionate computer 
 - 🔭 Currently working on: Building tools to enhance data engineering workflows.
 - 🌱 Learning: Advanced Python, AWS, and big data frameworks like Spark.
 - 💬 Ask me about: Data cleaning, visualization, or my journey in tech!
-- 🌍 From: West Bank, living in Maryland, USA 
 - ⚡ Fun Fact: I once wrote a program that saved 20 hours of manual work every week!
 
 ---
